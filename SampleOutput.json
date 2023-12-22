@@ -1,0 +1,75 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Sanju Samson to get chance in playing XI: India's predicted XI vs SA, 1st ODI - Hindustan Times",
+            "description": "Team India will begin their three-match ODI series vs South Africa on Sunday. Here is their predicted XI for the first ODI. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/kl-rahul-to-give-samson-a-chance-gaikwad-to-open-for-hosts-indias-predicted-xi-for-1st-south-africa-odi-101702749361486.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/16/1600x900/samson-upset-getty_1678436078921_1702749466108.jpg",
+            "publishedAt": "2023-12-17T01:33:43Z",
+            "content": "After managing to hold hosts South Africa to a 1-1 draw in their three-match T20I series, Team India will begin their three-match ODI series on Sunday in Johannesburg. India put in a dominant display… [+2095 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Gaurav Gupta",
+            "title": "India vs England, one-off Test: Meet Deepti Sharma, the ‘Ben Stokes of women’s team’ - IndiaTimes",
+            "description": "Cricket News: Deepti Sharma, the off-spinning allrounder, earned praise from new head coach Amol Muzumdar, who called her the 'Ben Stokes of the team'. She became t",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/news/one-off-test-meet-the-ben-stokes-of-the-womens-team/articleshow/106055166.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-106055189,width-1070,height-580,imgsize-29632,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-12-17T00:51:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurosport.com AU"
+            },
+            "author": null,
+            "title": "West Indies v England - 3rd T20I LIVE - West Indies put into bat, score big, set England target of 223 - Eurosport COM",
+            "description": "Welcome to live text updates from the Grenada National Cricket Stadium as the West Indies and England face off in the third of their five-match T20I series.",
+            "url": "https://www.eurosport.com/cricket/west-indies-v-england-3rd-t20i-live-windies-look-to-extend-series-lead_sto9925144/story.shtml",
+            "urlToImage": "https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2023/12/16/3846224-78157408-2560-1440.jpg",
+            "publishedAt": "2023-12-16T20:01:00Z",
+            "content": "Wow! What an astonishing over that was, and what a remarkable contribution from Harry Brook to keep the series alive.Four runs from him to start the over, and a glorious 86 metre six over extra cover… [+518 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "ESA Astronaut Shares Incredible Pictures Of Icebergs As Seen From Space - NDTV",
+            "description": "NDTV.com: India, Business, Bollywood, Cricket, Video and Breaking News",
+            "url": "https://www.ndtv.com",
+            "urlToImage": "https://cdn.ndtv.com/common/images/ogndtv.png",
+            "publishedAt": "2023-12-16T15:21:09Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "\"Some People Took It A Bit Personally\": AB de Villiers On Hardik Pandya Replacing Rohit Sharma As Mu.. - NDTV Sports",
+            "description": "Director Comey says the probe into last year's US election would assess if crimes were committed.",
+            "url": "https://www.bbc.com/news/world-us-canada-39324587",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/44EC/production/_95244671_mediaitem95244670.jpg",
+            "publishedAt": "2023-12-17T02:12:49Z",
+            "content": "Media caption, 'Putin hates Clinton' and other things the FBI learned about Russia\r\nFBI director James Comey has confirmed for the first time that the FBI is investigating alleged Russian interferenc… [+5942 chars]"
+        }
+    ]
+}
+
+
+
+    
